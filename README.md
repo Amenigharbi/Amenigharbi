@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Django,SpringBoot,PHP**
+- 🌱 I’m currently learning **NestJs,SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://lnkd.in/ea7STRXd](https://lnkd.in/ea7STRXd)
 
-- 💬 Ask me about **Django,NodeJs**
+- 💬 Ask me about **NodeJs**
 
 - 📫 How to reach me **gharbiameni17@gmail.com**
 
