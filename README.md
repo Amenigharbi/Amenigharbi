@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **NestJs,SpringBoot**
 
-- 👨‍💻 All of my projects are available at [https://lnkd.in/ea7STRXd](https://lnkd.in/ea7STRXd)
-
 - 💬 Ask me about **NodeJs**
 
 - 📫 How to reach me **gharbiameni17@gmail.com**
